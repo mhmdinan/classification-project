@@ -1,0 +1,21 @@
+link: https://www.kaggle.com/datasets/arashnic/ctr-in-advertisement?resource=download
+
+info:
+
+About Dataset
+Context
+
+A company wants to know the CTR ( Click Through Rate ) in order to identify whether spending their money on digital advertising is worth or not.
+A higher CTR represents more interest in that specific campaign, whereas a lower CTR can show that the ad may not be as relevant.
+High CTRs are important because they show that more people are clicking through the website. Along with this high CTRs also help to get better ad position for less money on online platforms like Google, Bing etc.
+Content
+
+The dataset divided to train (463291, 15) and test (128858, 14). Features are clear and target is "is_click" , 0 (No) , 1(Yes).
+Kerner(s)
+
+    Quick EDA and Base Model
+
+Inspiration
+
+    EDA and customer analytics
+    Prediction of the ad click rate of a customer
